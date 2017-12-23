@@ -105,6 +105,8 @@ header {
    	background-color: rgb(255,255,255);
    	color: #595a5b;
 	text-align: center;
+	max-width: 900px;
+	margin: 0 auto;
     	padding: 10px;
 	flex: 1 0 auto;
 } 

@@ -101,6 +101,12 @@ header {
 	flex-basis: 210px;
 }
 
+.profile {
+    background-color: rgb(255,255,255);
+    color: tomato;
+    padding: 10px;
+} 
+
 /* Media Queries */
 
 @media(min-width: 1000px) {

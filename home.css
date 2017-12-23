@@ -108,6 +108,15 @@ header {
     padding: 10px;
 } 
 
+.profile-container {
+	display: flex;
+	flex-wrap: wrap;
+	margin: 25px auto 0 auto;
+	max-width: 1100px;
+	justify-content: space-around;
+	border-top: 1px solid;
+}
+
 /* Media Queries */
 
 @media(min-width: 1000px) {

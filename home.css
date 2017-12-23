@@ -102,8 +102,9 @@ header {
 }
 
 .profile {
-    background-color: rgb(255,255,255);
-    color: tomato;
+   	background-color: rgb(255,255,255);
+   	color: tomato;
+	text-align: center;
     padding: 10px;
 } 
 

@@ -64,7 +64,7 @@ header {
 	outline: none;
 	cursor: pointer;
 	transition-duration: 0.4s;
-	text-transform: uppercase;
+	text-transform: ;
 }
 
 .vote-btn:hover {

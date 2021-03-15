@@ -66,7 +66,7 @@ header h1 {
 
 .nav {
 	list-style: none;
-	align-items: left;
+	float: left;
 	display: flex;
 }
 

@@ -66,8 +66,9 @@ header h1 {
 
 .nav {
 	list-style: none;
-	float: left;
 	display: flex;
+	position: absolute;
+	left: 0px;
 }
 
 .nav:not(:first-child) li {
